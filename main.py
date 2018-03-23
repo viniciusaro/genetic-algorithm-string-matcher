@@ -5,10 +5,10 @@ from classes.population import Population
 
 TARGET = "VINICIUS ALVES RODRIGUES"
 POPULATION_SIZE = 1000
-MUTATION = 0.01
+MUTATION_RATE = 0.01
 
 # Setup
-population = Population(POPULATION_SIZE, TARGET, MUTATION)
+population = Population(POPULATION_SIZE, TARGET, MUTATION_RATE)
 
 # Draw
 while population.isEvolved() == False:
