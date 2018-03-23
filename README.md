@@ -2,6 +2,8 @@
 
 First try on genetic algorithms! 🤓
 
+![Demonstration](https://github.com/viniciusaro/genetic-algorithm-string-matcher/blob/master/resources/demo.gif)
+
 ## Running
 
 ```python
